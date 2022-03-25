@@ -1,69 +1,68 @@
-{
-  "restaurants": [
-    {
-      "id": 1,
-      "name": "Kopi Soe, Rungkut",
-      "photo": "1.jpg",
-      "address": "Jl. Tenggilis Mejoyo Blok AN No.25, Rungkut, Surabaya",
-      "rating": "4.7",
-      "price_range": "16K-40K",
-      "category": [
-        {
-          "name":"Coffee"
-        }
-      ],
-      "opening_hours": {
-        "Monday": "08:00 - 21:00",
-        "Tuesday": "08:00 - 21:00",
-        "Wednesday": "08:00 - 21:00",
-        "Thursday": "08:00 - 21:00",
-        "Friday": "08:00 - 21:00",
-        "Saturday": "08:00 - 21:00",
-        "Sunday": "08:00 - 21:00"
-      },
-      "reviews": [
-        {
-          "name": "Steve",
-          "date": "October 26, 2016",
-          "rating": 4,
-          "comments": "-"
-        }
-      ]
+[
+  {
+    "id": 1,
+    "name": "Kopi Soe, Rungkut",
+    "photo": "1.jpg",
+    "address": "Jl. Tenggilis Mejoyo Blok AN No.25, Rungkut, Surabaya",
+    "rating": "4.7",
+    "price_range": "16K-40K",
+    "category": [
+      {
+        "name": "Coffee"
+      }
+    ],
+    "opening_hours": {
+      "Monday": "08:00 - 21:00",
+      "Tuesday": "08:00 - 21:00",
+      "Wednesday": "08:00 - 21:00",
+      "Thursday": "08:00 - 21:00",
+      "Friday": "08:00 - 21:00",
+      "Saturday": "08:00 - 21:00",
+      "Sunday": "08:00 - 21:00"
     },
-    {
-      "id": 2,
-      "name": "Fastfit, Tenggilis Mejoyo",
-      "photo": "2.jpg",
-      "address": "Jl. Tenggilis Mejoyo AN No.25, Rungkut, Surabaya",
-      "rating": "4.4",
-      "price_range": "16K-40K",
-      "category": [
-        {
-          "name":"Fast Food"
-        },
-        {
-          "name":"Western"
-        },
-        {
-          "name":"Chicken & Duck"
-        }
-      ],
-      "opening_hours": {
-        "Monday": "10:00 - 21:00",
-        "Tuesday": "10:00 - 21:00",
-        "Wednesday": "10:00 - 21:00",
-        "Thursday": "10:00 - 21:00",
-        "Friday": "10:00 - 21:00",
-        "Saturday": "10:00 - 21:00",
-        "Sunday": "10:00 - 21:00"
+    "reviews": [
+      {
+        "name": "Steve",
+        "date": "October 26, 2016",
+        "rating": 4,
+        "comments": "-"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fastfit, Tenggilis Mejoyo",
+    "photo": "2.jpg",
+    "address": "Jl. Tenggilis Mejoyo AN No.25, Rungkut, Surabaya",
+    "rating": "4.4",
+    "price_range": "16K-40K",
+    "category": [
+      {
+        "name": "Fast Food"
       },
-      "reviews": [{
-          "name": "Steve",
-          "date": "October 26, 2016",
-          "rating": 4,
-          "comments": "-"
-        }
-      ]
-    }
-  ]
-}
+      {
+        "name": "Western"
+      },
+      {
+        "name": "Chicken & Duck"
+      }
+    ],
+    "opening_hours": {
+      "Monday": "10:00 - 21:00",
+      "Tuesday": "10:00 - 21:00",
+      "Wednesday": "10:00 - 21:00",
+      "Thursday": "10:00 - 21:00",
+      "Friday": "10:00 - 21:00",
+      "Saturday": "10:00 - 21:00",
+      "Sunday": "10:00 - 21:00"
+    },
+    "reviews": [
+      {
+        "name": "Steve",
+        "date": "October 26, 2016",
+        "rating": 4,
+        "comments": "-"
+      }
+    ]
+  }
+]
