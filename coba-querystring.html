@@ -1,5 +1,5 @@
 <html>
-    
+
 </html>
 <div id="data"></div>
 <script>
@@ -8,117 +8,115 @@ var urlParmsArr = new URLSearchParams(query_string);
 var id = urlParmsArr.get('id');
 console.log(id);
 
-let restaurant = {
-  "menus": [
-    {
-      "restaurant_id": 1,
-      "items": [
-        {
-          "name": "Es Kopi Goela Merah Oatmilk",
-          "price": "29.000",
-          "description": "Gula merah khas Kopi Soe dipadu dengan susu oat dan expresso",
-          "category": "Oatmilk Series"
-        },
-        {
-          "name": "Cappucino Oatmilk",
-          "price": "29.000",
-          "description": "Perpaduan susu oat dengan expresso khas kopi soe",
-          "category": "Oatmilk Series"
-        },
-        {
-          "name": "Es Kopi Pandan Oatmilk",
-          "price": "34.000",
-          "description": "Kopi dengan susu oat dan sirup pandan Khas Kopi Soe",
-          "category": "Oatmilk Series"
-        },
-        {
-          "name": "Es Kopi Caramel",
-          "price": "28.000",
-          "description": "Perpaduan antara kopi susu ala Kopi Soe dengan tambahan saus karamel",
-          "category": "Kopi"
-        },
-        {
-          "name": "Kopi Goela Soe Merah",
-          "price": "18.000",
-          "description": "Kopi susu khas Kopi Soe",
-          "category": "Kopi"
-        },
-        {
-          "name": "Es Kopi Soe Low Fat",
-          "price": "20.000",
-          "description": "Kopi susu dengan kalori yang lebih rendah",
-          "category": "Kopi"
-        },
-        {
-          "name": "Es Kopi Rum",
-          "price": "22.000",
-          "description": "Es kopi susu dengan sentuhan perisa rum khas Kopi Soe",
-          "category": "Kopi"
-        },
-        {
-          "name": "Kopi Soe Iced Shaken",
-          "price": "25.000",
-          "description": "Kopi double expresso dengan racikan susu yang lebih creamy",
-          "category": "Kopi"
-        }
-      ]
-    },
-    {
-      "restaurant_id": 2,
-      "items": [
-        {
-          "name": "DFC Super Special + Nugget Fit (4 pcs)",
-          "price": "74.000",
-          "description": "DFC Super Special + Nugget Fit (4 pcs)",
-          "category": "Fit Combo Meal"
-        },
-        {
-          "name": "DFC Geprek",
-          "price": "43.000",
-          "description": "383 cal, brown rice + skinless chicken breast + sambal geprek fit + slim drinks",
-          "category": "DFC Geprek"
-        },
-        {
-          "name": "DFC Geprek Melted Cheese",
-          "price": "49.000",
-          "description": "426 cal, brown rice + skinless chicken breast + sambal geprek fit + melted cheese + feta + slim drinks",
-          "category": "DFC Geprek"
-        },
-        {
-          "name": "DFC 1",
-          "price": "43.000",
-          "description": "376 cal, Brown rice + Skinless Chicken Breast + Homemade Sauce + Slim Drinks",
-          "category": "DFC (Diet Fried Chicken)"
-        },
-        {
-          "name": "Slim Tea",
-          "price": "12.000",
-          "description": "",
-          "category": "Drinks"
-        },
-        {
-          "name": "Slim Lemon Tea",
-          "price": "15.000",
-          "description": "",
-          "category": "Drinks"
-        },
-        {
-          "name": "Slim Lychee Tea",
-          "price": "15.000",
-          "description": "",
-          "category": "Drinks"
-        }
-      ]
-    }
-  ]
-};
+let restaurant = [
+  {
+    "restaurant_id": 1,
+    "items": [
+      {
+        "name": "Es Kopi Goela Merah Oatmilk",
+        "price": "29.000",
+        "description": "Gula merah khas Kopi Soe dipadu dengan susu oat dan expresso",
+        "category": "Oatmilk Series"
+      },
+      {
+        "name": "Cappucino Oatmilk",
+        "price": "29.000",
+        "description": "Perpaduan susu oat dengan expresso khas kopi soe",
+        "category": "Oatmilk Series"
+      },
+      {
+        "name": "Es Kopi Pandan Oatmilk",
+        "price": "34.000",
+        "description": "Kopi dengan susu oat dan sirup pandan Khas Kopi Soe",
+        "category": "Oatmilk Series"
+      },
+      {
+        "name": "Es Kopi Caramel",
+        "price": "28.000",
+        "description": "Perpaduan antara kopi susu ala Kopi Soe dengan tambahan saus karamel",
+        "category": "Kopi"
+      },
+      {
+        "name": "Kopi Goela Soe Merah",
+        "price": "18.000",
+        "description": "Kopi susu khas Kopi Soe",
+        "category": "Kopi"
+      },
+      {
+        "name": "Es Kopi Soe Low Fat",
+        "price": "20.000",
+        "description": "Kopi susu dengan kalori yang lebih rendah",
+        "category": "Kopi"
+      },
+      {
+        "name": "Es Kopi Rum",
+        "price": "22.000",
+        "description": "Es kopi susu dengan sentuhan perisa rum khas Kopi Soe",
+        "category": "Kopi"
+      },
+      {
+        "name": "Kopi Soe Iced Shaken",
+        "price": "25.000",
+        "description": "Kopi double expresso dengan racikan susu yang lebih creamy",
+        "category": "Kopi"
+      }
+    ]
+  },
+  {
+    "restaurant_id": 2,
+    "items": [
+      {
+        "name": "DFC Super Special + Nugget Fit (4 pcs)",
+        "price": "74.000",
+        "description": "DFC Super Special + Nugget Fit (4 pcs)",
+        "category": "Fit Combo Meal"
+      },
+      {
+        "name": "DFC Geprek",
+        "price": "43.000",
+        "description": "383 cal, brown rice + skinless chicken breast + sambal geprek fit + slim drinks",
+        "category": "DFC Geprek"
+      },
+      {
+        "name": "DFC Geprek Melted Cheese",
+        "price": "49.000",
+        "description": "426 cal, brown rice + skinless chicken breast + sambal geprek fit + melted cheese + feta + slim drinks",
+        "category": "DFC Geprek"
+      },
+      {
+        "name": "DFC 1",
+        "price": "43.000",
+        "description": "376 cal, Brown rice + Skinless Chicken Breast + Homemade Sauce + Slim Drinks",
+        "category": "DFC (Diet Fried Chicken)"
+      },
+      {
+        "name": "Slim Tea",
+        "price": "12.000",
+        "description": "",
+        "category": "Drinks"
+      },
+      {
+        "name": "Slim Lemon Tea",
+        "price": "15.000",
+        "description": "",
+        "category": "Drinks"
+      },
+      {
+        "name": "Slim Lychee Tea",
+        "price": "15.000",
+        "description": "",
+        "category": "Drinks"
+      }
+    ]
+  }
+];
 
 if(id == null){
     document.getElementById("data").innerHTML = JSON.stringify(restaurant);
 } else {
-    for(var i = 0; i <= restaurant.menus.length; i++){
-        if(restaurant.menus[i].restaurant_id == id){
-            document.getElementById("data").innerHTML = JSON.stringify(restaurant.menus[i]);
+    for(var i = 0; i <= restaurant.length; i++){
+        if(restaurant[i].restaurant_id == id){
+            document.getElementById("data").innerHTML = JSON.stringify(restaurant[i]);
         }
     }
 }
