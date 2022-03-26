@@ -3,48 +3,56 @@
     "restaurant_id": 1,
     "items": [
       {
+        "menu_id": 1,
         "name": "Es Kopi Goela Merah Oatmilk",
         "price": "29.000",
         "photo": "",
         "description": "Gula merah khas Kopi Soe dipadu dengan susu oat dan expresso"
       },
       {
+        "menu_id": 2,
         "name": "Cappucino Oatmilk",
         "price": "29.000",
         "photo": "",
         "description": "Perpaduan susu oat dengan expresso khas kopi soe"
       },
       {
+        "menu_id": 3,
         "name": "Es Kopi Pandan Oatmilk",
         "price": "34.000",
         "photo": "",
         "description": "Kopi dengan susu oat dan sirup pandan Khas Kopi Soe"
       },
       {
+        "menu_id": 4,
         "name": "Es Kopi Caramel",
         "price": "28.000",
         "photo": "",
         "description": "Perpaduan antara kopi susu ala Kopi Soe dengan tambahan saus karamel"
       },
       {
+        "menu_id": 5,
         "name": "Kopi Goela Soe Merah",
         "price": "18.000",
         "photo": "",
         "description": "Kopi susu khas Kopi Soe"
       },
       {
+        "menu_id": 6,
         "name": "Es Kopi Soe Low Fat",
         "price": "20.000",
         "photo": "",
         "description": "Kopi susu dengan kalori yang lebih rendah"
       },
       {
+        "menu_id": 7,
         "name": "Es Kopi Rum",
         "price": "22.000",
         "photo": "",
         "description": "Es kopi susu dengan sentuhan perisa rum khas Kopi Soe"
       },
       {
+        "menu_id": 8,
         "name": "Kopi Soe Iced Shaken",
         "price": "25.000",
         "photo": "",
@@ -56,42 +64,49 @@
     "restaurant_id": 2,
     "items": [
       {
+        "menu_id": 1,
         "name": "DFC Super Special + Nugget Fit (4 pcs)",
         "price": "74.000",
         "photo": "",
         "description": "DFC Super Special + Nugget Fit (4 pcs)"
       },
       {
+        "menu_id": 2,
         "name": "DFC Geprek",
         "price": "43.000",
         "photo": "",
         "description": "383 cal, brown rice + skinless chicken breast + sambal geprek fit + slim drinks"
       },
       {
+        "menu_id": 3,
         "name": "DFC Geprek Melted Cheese",
         "price": "49.000",
         "photo": "",
         "description": "426 cal, brown rice + skinless chicken breast + sambal geprek fit + melted cheese + feta + slim drinks"
       },
       {
+        "menu_id": 4,
         "name": "DFC 1",
         "price": "43.000",
         "photo": "",
         "description": "376 cal, Brown rice + Skinless Chicken Breast + Homemade Sauce + Slim Drinks"
       },
       {
+        "menu_id": 5,
         "name": "Slim Tea",
         "price": "12.000",
         "photo": "",
         "description": ""
       },
       {
+        "menu_id": 6,
         "name": "Slim Lemon Tea",
         "price": "15.000",
         "photo": "",
         "description": ""
       },
       {
+        "menu_id": 7,
         "name": "Slim Lychee Tea",
         "price": "15.000",
         "photo": "",
@@ -103,30 +118,35 @@
     "restaurant_id": 3,
     "items": [
       {
+        "menu_id": 1,
         "name": "Bubur Ayam Polos",
         "price": "9.000",
         "photo": "",
         "description": "Bubur Ayam Saja"
       },
       {
+        "menu_id": 2,
         "name": "Bubur Ayam Original",
         "price": "17.600",
         "photo": "",
         "description": "Toping Lengkap ayam suwir, cakue, kacang kedelai, ayam cincang, iris seledri, dan taburan bawang goreng."
       },
       {
+        "menu_id": 3,
         "name": "Bubur Ayam Jumbo",
         "price": "20.500",
         "photo": "",
         "description": "Extra Buburnya."
       },
       {
+        "menu_id": 4,
         "name": "Bubur Ayam + Telur Ayam Rebus",
         "price": "20.500",
         "photo": "",
         "description": "Bubut Ayam original yang dilengkapi dengan satu butir telur ayam rebus, menjadi extra kenyangnya!"
       },
       {
+        "menu_id": 5,
         "name": "Telur Puyuh Original",
         "price": "5.000",
         "photo": "",
@@ -138,30 +158,35 @@
     "restaurant_id": 4,
     "items": [
       {
+        "menu_id": 1,
         "name": "Bubur Ayam Polos",
         "price": "9.000",
         "photo": "",
         "description": "Bubur polos tanpa toping Bumbu Kaya Rempah Gurih"
       },
       {
+        "menu_id": 2,
         "name": "Bubur Ayam Original",
         "price": "17.000",
         "photo": "",
         "description": "Ayam Suwir + Cakue + Bawang Goreng + Krupuk + Kuah"
       },
       {
+        "menu_id": 3,
         "name": "Bubur Ayam Pedas Manis",
         "price": "18.000",
         "photo": "",
         "description": "Suwiran Ayam Dibumbui Rempah Yg Berasa Gurih Pedas Manis"
       },
       {
+        "menu_id": 4,
         "name": "Bubur Ayam Special 1",
         "price": "25.000",
         "photo": "",
         "description": "Suwiran Ayam + (Ati Ampela + Telur Bacem 1/2)"
       },
       {
+        "menu_id": 5,
         "name": "Bubur Ayam Special 2",
         "price": "24.000",
         "photo": "",
