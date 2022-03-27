@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kopi Soe, Rungkut",
-    "photo": "1.jpg",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
     "address": "Jl. Tenggilis Mejoyo Blok AN No.25, Rungkut, Surabaya",
     "rating": "4.7",
     "price_range": "16K-40K",
