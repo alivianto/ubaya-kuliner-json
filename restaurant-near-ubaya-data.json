@@ -32,7 +32,7 @@
   {
     "id": 2,
     "name": "Fastfit, Tenggilis Mejoyo",
-    "photo": "2.jpg",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit.PNG",
     "address": "Jl. Tenggilis Mejoyo AN No.25, Rungkut, Surabaya",
     "rating": "4.4",
     "price_range": "16K-40K",
@@ -68,7 +68,7 @@
   {
     "id": 3,
     "name": "Bubur Ayam Mang Adoel, Rungkut",
-    "photo": "3.jpg",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayammangadoel.PNG",
     "address": "Jl. Rungkut Lor, Gang 3 No.57, RUngkur, Surabaya",
     "rating": "4.6",
     "price_range": "16K-40K",
@@ -101,7 +101,7 @@
   {
     "id": 4,
     "name": "Bubur Ayam Ajetiga, Rungkut Mejoyo Raya",
-    "photo": "4.jpg",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetigal.PNG",
     "address": "Jl. Rungkut Mejoyo Raya, Blok AJ-3 (32), Rungkut, Surabaya",
     "rating": "4.7",
     "price_range": "16K-40K",
