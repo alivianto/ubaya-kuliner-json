@@ -6,56 +6,56 @@
         "menu_id": 1,
         "name": "Es Kopi Goela Merah Oatmilk",
         "price": "29.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopigoelamerahoatmilk.jpg",
         "description": "Gula merah khas Kopi Soe dipadu dengan susu oat dan expresso"
       },
       {
         "menu_id": 2,
         "name": "Cappucino Oatmilk",
         "price": "29.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/cappucinooatmilk.jpg",
         "description": "Perpaduan susu oat dengan expresso khas kopi soe"
       },
       {
         "menu_id": 3,
         "name": "Es Kopi Pandan Oatmilk",
         "price": "34.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopipandanoatmilk.jpg",
         "description": "Kopi dengan susu oat dan sirup pandan Khas Kopi Soe"
       },
       {
         "menu_id": 4,
         "name": "Es Kopi Caramel",
         "price": "28.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopicaramel.jpg",
         "description": "Perpaduan antara kopi susu ala Kopi Soe dengan tambahan saus karamel"
       },
       {
         "menu_id": 5,
         "name": "Kopi Goela Soe Merah",
         "price": "18.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/kopigoelasoemerah.jpg",
         "description": "Kopi susu khas Kopi Soe"
       },
       {
         "menu_id": 6,
         "name": "Es Kopi Soe Low Fat",
         "price": "20.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopisoelowfat.jpg",
         "description": "Kopi susu dengan kalori yang lebih rendah"
       },
       {
         "menu_id": 7,
         "name": "Es Kopi Rum",
         "price": "22.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopirum.jpg",
         "description": "Es kopi susu dengan sentuhan perisa rum khas Kopi Soe"
       },
       {
         "menu_id": 8,
         "name": "Kopi Soe Iced Shaken",
         "price": "25.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/kopisoeicedshaken.jpg",
         "description": "Kopi double expresso dengan racikan susu yang lebih creamy"
       }
     ]
