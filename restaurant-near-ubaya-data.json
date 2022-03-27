@@ -4,7 +4,7 @@
     "name": "Kopi Soe, Rungkut",
     "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
     "address": "Jl. Tenggilis Mejoyo Blok AN No.25, Rungkut, Surabaya",
-    "rating": "4.7",
+    "rating": "4.5",
     "price_range": "16K-40K",
     "category":  [
       {
@@ -23,9 +23,21 @@
     "reviews": [
       {
         "name": "Steve",
-        "date": "October 26, 2016",
-        "rating": 4,
-        "comments": "-"
+        "date": "2021",
+        "rating": 4.0,
+        "comments": "sudah minta less ice tapi es batunya tetep banyak, tapi overall ok kok"
+      },
+      {
+        "name": "Dian",
+        "date": "2021",
+        "rating": 4.0,
+        "comments": "Kayaknya agak beda ya dari biasanya, croffelnya lebih tipis dan gak crunchy"
+      },
+      {
+        "name": "Yohan",
+        "date": "2021",
+        "rating": 5.0,
+        "comments": "Uwenakk poll toppingnya melimpah"
       }
     ]
   },
@@ -58,10 +70,22 @@
     },
     "reviews": [
       {
-        "name": "Steve",
-        "date": "October 26, 2016",
-        "rating": 4,
-        "comments": "-"
+        "name": "Hanni",
+        "date": "2021",
+        "rating": 5.0,
+        "comments": "Enak banget sukaa!! porsinya juga gede jadi ngenyangin, kemasan rapii dan aman. Thankyouu fastfit <33"
+      },
+      {
+        "name": "Alexander",
+        "date": "2021",
+        "rating": 5.0,
+        "comments": "Chef kiss as usual"
+      },
+      {
+        "name": "Hanni",
+        "date": "2021",
+        "rating": 4.5,
+        "comments": "Kemasan OK, tp kok pas datang tidak panas alias dingin, akhirnya harus di oven lagi deh"
       }
     ]
   },
@@ -91,10 +115,16 @@
     },
     "reviews": [
       {
-        "name": "Steve",
-        "date": "October 26, 2016",
-        "rating": 4,
-        "comments": "-"
+        "name": "Dika",
+        "date": "2021",
+        "rating": 5,
+        "comments": "Buburnya enak poll, kemasan rapi."
+      },
+      {
+        "name": "Ratu",
+        "date": "2021",
+        "rating": 4.5,
+        "comments": "Karena kemasan pakai sterofoam, jadi ikannya sebaiknya taruh di plastik tersendiri aja"
       }
     ]
   },
@@ -124,10 +154,22 @@
     },
     "reviews": [
       {
-        "name": "Steve",
-        "date": "October 26, 2016",
-        "rating": 4,
-        "comments": "-"
+        "name": "Gilbert",
+        "date": "2021",
+        "rating": 4.5,
+        "comments": "Dikasi ayamnya dikit, tidak seperti saya beli pas di tempatnya langsung"
+      },
+      {
+        "name": "Andy",
+        "date": "2021",
+        "rating": 4.5,
+        "comments": "Request terpenuhi, disuruh bungkus plastik, jadi biar buburnya nda tumpah"
+      },
+      {
+        "name": "Aulia",
+        "date": "2021",
+        "rating": 5,
+        "comments": "Uenakk pol buburnya, salah satu bubur recomended banget di dekat Ubaya"
       }
     ]
   }

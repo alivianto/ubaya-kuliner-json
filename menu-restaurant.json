@@ -67,49 +67,49 @@
         "menu_id": 1,
         "name": "DFC Super Special + Nugget Fit (4 pcs)",
         "price": "74.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcsuperspecialnuggetfit4pcs.jpg",
         "description": "DFC Super Special + Nugget Fit (4 pcs)"
       },
       {
         "menu_id": 2,
         "name": "DFC Geprek",
         "price": "43.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcgeprek.jpg",
         "description": "383 cal, brown rice + skinless chicken breast + sambal geprek fit + slim drinks"
       },
       {
         "menu_id": 3,
         "name": "DFC Geprek Melted Cheese",
         "price": "49.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcgeprekmeltedcheese.jpg",
         "description": "426 cal, brown rice + skinless chicken breast + sambal geprek fit + melted cheese + feta + slim drinks"
       },
       {
         "menu_id": 4,
         "name": "DFC 1",
         "price": "43.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfc1.jpg",
         "description": "376 cal, Brown rice + Skinless Chicken Breast + Homemade Sauce + Slim Drinks"
       },
       {
         "menu_id": 5,
         "name": "Slim Tea",
         "price": "12.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/slimtea.jpg",
         "description": ""
       },
       {
         "menu_id": 6,
         "name": "Slim Lemon Tea",
         "price": "15.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/slimlemontea.jpg",
         "description": ""
       },
       {
         "menu_id": 7,
         "name": "Slim Lychee Tea",
         "price": "15.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/slimlycheetea.jpg",
         "description": ""
       }
     ]
@@ -121,35 +121,35 @@
         "menu_id": 1,
         "name": "Bubur Ayam Polos",
         "price": "9.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayampolos.jpeg",
         "description": "Bubur Ayam Saja"
       },
       {
         "menu_id": 2,
         "name": "Bubur Ayam Original",
         "price": "17.600",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamoriginal.jpg",
         "description": "Toping Lengkap ayam suwir, cakue, kacang kedelai, ayam cincang, iris seledri, dan taburan bawang goreng."
       },
       {
         "menu_id": 3,
         "name": "Bubur Ayam Jumbo",
         "price": "20.500",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamjumbo.jpg",
         "description": "Extra Buburnya."
       },
       {
         "menu_id": 4,
         "name": "Bubur Ayam + Telur Ayam Rebus",
         "price": "20.500",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamtelurayamrebus.jpg",
         "description": "Bubut Ayam original yang dilengkapi dengan satu butir telur ayam rebus, menjadi extra kenyangnya!"
       },
       {
         "menu_id": 5,
         "name": "Telur Puyuh Original",
         "price": "5.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/telurpuyuh.jpg",
         "description": "isi 4 butir utuh"
       }
     ]
