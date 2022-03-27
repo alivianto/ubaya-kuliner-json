@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "name": "Kopi Soe, Rungkut",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
+        "address": "Jl. Tenggilis Mejoyo Blok AN No.25, Rungkut, Surabaya",
+        "rating": "4.5",
+        "price_range": "16K-40K",
+        "category": [
+            {
+                "name": "Coffee"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "08:00 - 21:00",
+            "Tuesday": "08:00 - 21:00",
+            "Wednesday": "08:00 - 21:00",
+            "Thursday": "08:00 - 21:00",
+            "Friday": "08:00 - 21:00",
+            "Saturday": "08:00 - 21:00",
+            "Sunday": "08:00 - 21:00"
+        },
+        "reviews": [
+            {
+                "name": "Steve",
+                "date": "2021",
+                "rating": 4.0,
+                "comments": "sudah minta less ice tapi es batunya tetep banyak, tapi overall ok kok"
+            },
+            {
+                "name": "Dian",
+                "date": "2021",
+                "rating": 4.0,
+                "comments": "Kayaknya agak beda ya dari biasanya, croffelnya lebih tipis dan gak crunchy"
+            },
+            {
+                "name": "Yohan",
+                "date": "2021",
+                "rating": 5.0,
+                "comments": "Uwenakk poll toppingnya melimpah"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bubur Ayam Ajetiga, Rungkut Mejoyo Raya",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+        "address": "Jl. Rungkut Mejoyo Raya, Blok AJ-3 (32), Rungkut, Surabaya",
+        "rating": "4.7",
+        "price_range": "16K-40K",
+        "category": [
+            {
+                "name": "Rice"
+            },
+            {
+                "name": "Chicken & Duck"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "05:00 - 13:00, 16:30 - 20:00",
+            "Tuesday": "05:00 - 12:30, 16:20 - 20:00",
+            "Wednesday": "05:00 - 12:30, 16:30 - 20:00",
+            "Thursday": "05:00 - 12:30, 16:15 - 20:00",
+            "Friday": "05:00 - 12:30, 16:30 - 20:00",
+            "Saturday": "05:00 - 12:30, 16:30 - 20:00",
+            "Sunday": "05:00 - 12:30, 16:30 - 20:00"
+        },
+        "reviews": [
+            {
+                "name": "Gilbert",
+                "date": "2021",
+                "rating": 4.5,
+                "comments": "Dikasi ayamnya dikit, tidak seperti saya beli pas di tempatnya langsung"
+            },
+            {
+                "name": "Andy",
+                "date": "2021",
+                "rating": 4.5,
+                "comments": "Request terpenuhi, disuruh bungkus plastik, jadi biar buburnya nda tumpah"
+            },
+            {
+                "name": "Aulia",
+                "date": "2021",
+                "rating": 5,
+                "comments": "Uenakk pol buburnya, salah satu bubur recomended banget di dekat Ubaya"
+            }
+        ]
+    }
+]
