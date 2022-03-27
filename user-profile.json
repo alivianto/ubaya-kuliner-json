@@ -1,9 +1,8 @@
-
-    {
-      "user_id": 1,
-      "username": "s160419094",
-      "password": "12345",
-      "name": "Andi.L",
-      "email": "s160419094@student.ubaya.ac.id",
-      "no_telp": "081234567890"
-    }
+{
+    "user_id": 1,
+    "username": "s160419094",
+    "password": "12345",
+    "name": "Andi Halim",
+    "email": "s160419094@student.ubaya.ac.id",
+    "no_telp": "081234567890"
+}
