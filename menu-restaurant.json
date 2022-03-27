@@ -161,35 +161,35 @@
         "menu_id": 1,
         "name": "Bubur Ayam Polos",
         "price": "9.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayampolos.jpg",
         "description": "Bubur polos tanpa toping Bumbu Kaya Rempah Gurih"
       },
       {
         "menu_id": 2,
         "name": "Bubur Ayam Original",
         "price": "17.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayamoriginal.jpg",
         "description": "Ayam Suwir + Cakue + Bawang Goreng + Krupuk + Kuah"
       },
       {
         "menu_id": 3,
         "name": "Bubur Ayam Pedas Manis",
         "price": "18.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayampedasmanis.jpg",
         "description": "Suwiran Ayam Dibumbui Rempah Yg Berasa Gurih Pedas Manis"
       },
       {
         "menu_id": 4,
         "name": "Bubur Ayam Special 1",
         "price": "25.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayamspecial1.jpg",
         "description": "Suwiran Ayam + (Ati Ampela + Telur Bacem 1/2)"
       },
       {
         "menu_id": 5,
         "name": "Bubur Ayam Special 2",
         "price": "24.000",
-        "photo": "",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayamspecial2.jpg",
         "description": "Suwiran Ayam + (Bakso Keju + Sosis)"
       }
     ]
